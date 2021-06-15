@@ -15,7 +15,7 @@ This repository and personal project consists of a progressive recording of my s
 of my skills in the python language through exercises of different topics.
 -
 The project is divided into 2 folders:
-
+-
 -***Data Science***:
 Exercises demonstrating the different models in which algorithms are applied for machine learning purposes.
 -
